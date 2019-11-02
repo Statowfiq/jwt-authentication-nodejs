@@ -1,4 +1,4 @@
-# Node.js jsonwebtoken Example
+# Node.js json webtoken Example
 
 > An example of how to protect routes and get a token
 
